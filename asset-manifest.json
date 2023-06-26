@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9383361e.css",
+    "main.js": "/static/js/main.26e2c5ca.js",
+    "static/media/image-4.png": "/static/media/image-4.fb440763d6cf3f2832d5.png",
+    "static/media/image-6.png": "/static/media/image-6.bb516e077aff2ad280e7.png",
+    "static/media/city-driver.png": "/static/media/city-driver.917f40a3dafaa23297c5.png",
+    "static/media/image-5.png": "/static/media/image-5.5c4952a134f6360cc8c0.png",
+    "static/media/image-8.png": "/static/media/image-8.3af8651124565e37fa0a.png",
+    "static/media/image-7.png": "/static/media/image-7.030132354b0dc144455a.png",
+    "static/media/Gentona-Bold.ttf": "/static/media/Gentona-Bold.fd378a370825ce54cc5a.ttf",
+    "static/media/apnirental.png": "/static/media/apnirental.f17ddf13f3404701222f.png",
+    "static/media/apnicab.png": "/static/media/apnicab.eee0235e7ef1c6efb8df.png",
+    "static/media/apnibike.png": "/static/media/apnibike.331dfea629a22997d3d9.png",
+    "static/media/apniauto.png": "/static/media/apniauto.9ac3ee10c6f8c63e8a67.png",
+    "index.html": "/index.html",
+    "main.9383361e.css.map": "/static/css/main.9383361e.css.map",
+    "main.26e2c5ca.js.map": "/static/js/main.26e2c5ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9383361e.css",
+    "static/js/main.26e2c5ca.js"
+  ]
+}
